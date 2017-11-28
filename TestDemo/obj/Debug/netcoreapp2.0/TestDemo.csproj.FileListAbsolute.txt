@@ -1,0 +1,15 @@
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/TestDemo.deps.json
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/TestDemo.runtimeconfig.json
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/TestDemo.runtimeconfig.dev.json
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/TestDemo.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/TestDemo.pdb
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.pdb
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/obj/Debug/netcoreapp2.0/TestDemo.csproj.CoreCompileInputs.cache
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/obj/Debug/netcoreapp2.0/TestDemo.AssemblyInfoInputs.cache
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/obj/Debug/netcoreapp2.0/TestDemo.AssemblyInfo.cs
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/obj/Debug/netcoreapp2.0/TestDemo.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/TestDemo/obj/Debug/netcoreapp2.0/TestDemo.pdb

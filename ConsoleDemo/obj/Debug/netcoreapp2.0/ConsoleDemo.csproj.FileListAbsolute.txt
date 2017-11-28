@@ -1,0 +1,10 @@
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.deps.json
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.runtimeconfig.json
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.runtimeconfig.dev.json
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/bin/Debug/netcoreapp2.0/ConsoleDemo.pdb
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/obj/Debug/netcoreapp2.0/ConsoleDemo.csproj.CoreCompileInputs.cache
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/obj/Debug/netcoreapp2.0/ConsoleDemo.AssemblyInfoInputs.cache
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/obj/Debug/netcoreapp2.0/ConsoleDemo.AssemblyInfo.cs
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/obj/Debug/netcoreapp2.0/ConsoleDemo.dll
+/Users/meinhh/Programming/Projects/DotNetDemo/ConsoleDemo/obj/Debug/netcoreapp2.0/ConsoleDemo.pdb
